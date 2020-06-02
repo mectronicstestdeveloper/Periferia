@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.AspNetCore.Common" Version="19.1.6" />
+    <PackageReference Include="DevExpress.AspNetCore.Core" Version="19.1.6" />
+    <PackageReference Include="DevExpress.AspNetCore.Core.es" Version="19.1.6" />
+    <PackageReference Include="DevExpress.AspNetCore.Resources.es" Version="19.1.6" />
+    <PackageReference Include="DevExtreme.AspNet.Core" Version="19.1.6" />
+    <PackageReference Include="DevExtreme.AspNet.Data" Version="2.4.4" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PeriferiaData\PeriferiaData.csproj" />
+    <ProjectReference Include="..\PeriferiaUIService\PeriferiaUIService.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties DismissedDevExtremeVersion="19.2.3" /></VisualStudio></ProjectExtensions>
+
+</Project>

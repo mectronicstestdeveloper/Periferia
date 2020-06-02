@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\bin\Release\netcoreapp3.0\PeriferiaBusiness.deps.json
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\bin\Release\netcoreapp3.0\PeriferiaBusiness.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\bin\Release\netcoreapp3.0\PeriferiaBusiness.pdb
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\bin\Release\netcoreapp3.0\PeriferiaData.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\bin\Release\netcoreapp3.0\PeriferiaData.pdb
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\obj\Release\netcoreapp3.0\PeriferiaBusiness.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\obj\Release\netcoreapp3.0\PeriferiaBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\obj\Release\netcoreapp3.0\PeriferiaBusiness.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\obj\Release\netcoreapp3.0\PeriferiaBusiness.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\obj\Release\netcoreapp3.0\PeriferiaBusiness.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\obj\Release\netcoreapp3.0\PeriferiaBusiness.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaBusiness\obj\Release\netcoreapp3.0\PeriferiaBusiness.pdb

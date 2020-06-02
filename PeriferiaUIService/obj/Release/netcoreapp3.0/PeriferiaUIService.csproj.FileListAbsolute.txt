@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\bin\Release\netcoreapp3.0\PeriferiaUIService.deps.json
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\bin\Release\netcoreapp3.0\PeriferiaUIService.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\bin\Release\netcoreapp3.0\PeriferiaUIService.pdb
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\bin\Release\netcoreapp3.0\PeriferiaBusiness.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\bin\Release\netcoreapp3.0\PeriferiaData.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\bin\Release\netcoreapp3.0\PeriferiaBusiness.pdb
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\bin\Release\netcoreapp3.0\PeriferiaData.pdb
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\obj\Release\netcoreapp3.0\PeriferiaUIService.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\obj\Release\netcoreapp3.0\PeriferiaUIService.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\obj\Release\netcoreapp3.0\PeriferiaUIService.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\obj\Release\netcoreapp3.0\PeriferiaUIService.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\obj\Release\netcoreapp3.0\PeriferiaUIService.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\obj\Release\netcoreapp3.0\PeriferiaUIService.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaUIService\obj\Release\netcoreapp3.0\PeriferiaUIService.pdb

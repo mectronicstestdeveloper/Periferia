@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\bin\Release\netcoreapp3.0\PeriferiaData.deps.json
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\bin\Release\netcoreapp3.0\PeriferiaData.runtimeconfig.json
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\bin\Release\netcoreapp3.0\PeriferiaData.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\bin\Release\netcoreapp3.0\PeriferiaData.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\bin\Release\netcoreapp3.0\PeriferiaData.pdb
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\obj\Release\netcoreapp3.0\PeriferiaData.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\obj\Release\netcoreapp3.0\PeriferiaData.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\obj\Release\netcoreapp3.0\PeriferiaData.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\obj\Release\netcoreapp3.0\PeriferiaData.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\obj\Release\netcoreapp3.0\PeriferiaData.dll
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\obj\Release\netcoreapp3.0\PeriferiaData.pdb
+C:\Users\Usuario\source\repos\Periferia\PeriferiaData\obj\Release\netcoreapp3.0\PeriferiaData.genruntimeconfig.cache

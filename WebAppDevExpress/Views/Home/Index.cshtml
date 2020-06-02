@@ -1,0 +1,94 @@
+﻿@using PeriferiaData.Models;
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Categoría";
+}
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="kt-portlet">
+            @*<div class="kt-portlet__head">
+                    <div class="kt-portlet__head-label">
+                        <h3 class="kt-portlet__head-title">
+                            Titulo
+                        </h3>
+                        <h3 class="kt-portlet__body">
+                            Descripción
+                        </h3>
+                    </div>
+                </div>*@
+
+            <!--begin::Form-->
+            <form class="kt-form">
+                <div class="kt-portlet__body">
+
+                    <div class="row">
+
+                        <div class="col-md-12">
+                            <div class="form-group form-group-last">
+
+                                <p>Maestros de categorías</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-12">
+                            <div class="form-group form-group-last">
+
+                                @(Html.DevExtreme().DataGrid<Category>()
+                                    .ID("gridContainer")
+                                    .Columns(columns =>
+                                    {
+
+                                       columns.AddFor(c => c.CategoryName).Caption("Categoría").AllowFiltering(false);
+
+                                    })
+                                     .DataSource(d => d.Mvc()
+                                        .Controller("DataMaster")
+                                        .LoadAction("ReadCategory")
+                                           .InsertAction("InsertCategory")
+                                            .UpdateAction("UpdateCategory")
+                                            .DeleteAction("DeleteCategory")
+                                        .Key("CategoryId")
+                                    )
+                                      .RepaintChangesOnly(true)
+                                      .Editing(e => e
+        .Mode(GridEditMode.Cell)
+        .RefreshMode(GridEditRefreshMode.Reshape)
+        .AllowAdding(true)
+        .AllowDeleting(true)
+        .AllowUpdating(true)
+    )
+                                    .FilterRow(c => c.Visible(true).ShowOperationChooser(false))
+                                    .Paging(paging => paging.PageSize(10))
+                                    .Pager(p => p.Visible(true))
+                                    .ShowBorders(true)
+                                    .Scrolling(s => s.Mode(GridScrollingMode.Standard))
+                                    .ShowBorders(true)
+                                    .Height(300))
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                @*<div class="kt-portlet__foot">
+                        <div class="kt-form__actions">
+                            <div class="form-group form-group-last">
+                                <div class="alert alert-secondary" role="alert">
+                                    <div class="alert-icon"><i class="flaticon-warning kt-font-brand"></i></div>
+                                    <div class="alert-text">
+                                        Contact:
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>*@
+            </form>
+
+            <!--end::Form-->
+        </div>
+    </div>
+</div>
